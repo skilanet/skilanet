@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skilanet
-- 👀 I’m interested in java
+- 👀 I’m interested in java, kotlin and mobile dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/skila_net
 
